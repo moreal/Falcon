@@ -3,7 +3,7 @@
 <img src="https://github.com/utilForever/Falcon/blob/master/Logo.png" width=256 height=256 />
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/Falcon/blob/master/LICENSE)
-
+[![Go Report](https://goreportcard.com/badge/github.com/utilforever/Falcon)](https://goreportcard.com/report/github.com/utilforever/Falcon)  
 Falcon is fully auto-configure package manager for C/C++ open source projects.
 
 ## Key Features
